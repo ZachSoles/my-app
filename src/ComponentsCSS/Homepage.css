@@ -1,0 +1,23 @@
+.hero {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 300px;
+    background-image: url(../Resources/background.JPEG);
+    height: 100vh;
+    background-size: cover;
+    /* width: 100%; */
+    background-repeat: no-repeat;
+    margin:0px auto;
+}
+
+.Homeh1 {
+    margin: 0;
+    font-size: 4rem;
+    color: rgb(255, 255, 255);
+}
+
+.Homep {
+    font-weight: 700px;
+    font-size: 1.75rem;
+    color: rgb(255, 255, 255);
+}
