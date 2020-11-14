@@ -9,32 +9,6 @@ import nyx4 from '../Resources/nyx4.png';
 
 function Projects() {
 
-  const nyxPics = ["nyx1", "nyx2", "nyx3", "nyx4"];
-  const nyxSlides = nyxPics.map((item, index) => {
-    return (
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src={require(`../Resources/${item}.png`)}
-          alt="App"
-        />
-      </Carousel.Item>
-    );
-  });
-
-  // const todoPics = ["todo1", "todo2"];
-  // const todoSlides = todoPics.map((item, index) => {
-  //   return (
-  //     <Carousel.Item>
-  //       <img
-  //         className="d-block w-100"
-  //         src={require(`../Resources/${item}.png`)}
-  //         alt=""
-  //       />
-  //     </Carousel.Item>
-  //   );
-  // });
-
   return (
     <div className = "card">
         <CardColumns>

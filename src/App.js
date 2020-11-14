@@ -13,7 +13,6 @@ function App() {
     <HashRouter basename='/'>
       <div className="App">
         <NavBar/>
-        {/* <Homepage/> */}
         <Switch>
           <Route path="/" exact component={Homepage}/>
           <Route path="/about" component={About}/>
@@ -22,7 +21,7 @@ function App() {
           <Route path="/contact" component={Contact}/>
         </Switch>
       </div>
-    </HashRouter>
+    </HashRouter> 
   );
 }
 
