@@ -6,9 +6,11 @@ import Github from './Resources/github.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
+
 function NavBar() {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="light" variant="light" >
+    // <Navbar collapseOnSelect expand="lg" bg="light" variant="light" >
+    <Navbar scrollable expand="md" fixed="top" bg="dark" variant="dark">
       <Navbar.Brand href="/">Zach Soles</Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
