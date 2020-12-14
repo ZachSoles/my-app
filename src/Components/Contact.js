@@ -1,6 +1,5 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '../ComponentsCSS/About.css';
 import { Form, Button, Card, Col, Row } from 'react-bootstrap';
 
 function Contact() {

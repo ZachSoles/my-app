@@ -1,11 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
-import Homepage from './Components/Homepage';
 import NavBar from './Components/NavBar';
-import Experience from './Components/Experience';
+import FrontPage from './Components/Fontpage';
 import Contact from './Components/Contact';
-import Projects from './Components/Projects';
-import About from './Components/About';
+import Projects from './Components/Projects/Projects';
 import { HashRouter, Switch, Route } from 'react-router-dom';
 
 function App() {
@@ -13,11 +10,8 @@ function App() {
     <HashRouter basename='/'>
       <div className="App">
         <NavBar/>
-        {/* <Homepage/> */}
         <Switch>
-          <Route path="/" exact component={Homepage}/>
-          <Route path="/about" component={About}/>
-          <Route path="/experience" component={Experience}/>
+          <Route path="/" exact component={FrontPage}/>
           <Route path="/projects" component={Projects}/>
           <Route path="/contact" component={Contact}/>
         </Switch>

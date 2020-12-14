@@ -2,8 +2,8 @@
     margin: 0 auto;
     text-align: center;
     padding-top: 300px;
-    background-image: url(../Resources/background.JPEG);
-    height: 100vh;
+    background-image: url(../Resources/background.JPEG);;
+    height: 85vh;
     background-size: cover;
     /* width: 100%; */
     background-repeat: no-repeat;

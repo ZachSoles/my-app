@@ -1,0 +1,23 @@
+.hf {
+    margin: 0 auto;
+    text-align: center;
+    /* padding-top: 300px; */
+    background-image: url(https://www.designbolts.com/wp-content/uploads/2012/11/Free-Professional-Dark-Carbon-Patterns.jpg);
+    height: 20vh;
+    background-size: cover;
+    /* width: 100%; */
+    background-repeat: no-repeat;
+    /* margin:0px auto; */
+}
+
+.hg {
+    padding-top: 3%;
+    font-size: 4rem;
+    color: rgb(255, 255, 255);
+}
+
+.he {
+    font-weight: 700px;
+    font-size: 1.75rem;
+    color: rgb(255, 255, 255);
+}

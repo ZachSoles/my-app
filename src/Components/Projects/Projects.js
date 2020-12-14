@@ -1,5 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './Projects.json';
+import './Projects.css';
 import {Card, CardColumns, Button, Carousel} from 'react-bootstrap'
 import todo1 from '../Resources/todo1.png';
 import nyx1 from '../Resources/nyx1.png';
@@ -8,33 +10,6 @@ import nyx3 from '../Resources/nyx3.png';
 import nyx4 from '../Resources/nyx4.png';
 
 function Projects() {
-
-  const nyxPics = ["nyx1", "nyx2", "nyx3", "nyx4"];
-  const nyxSlides = nyxPics.map((item, index) => {
-    return (
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src={require(`../Resources/${item}.png`)}
-          alt="App"
-        />
-      </Carousel.Item>
-    );
-  });
-
-  // const todoPics = ["todo1", "todo2"];
-  // const todoSlides = todoPics.map((item, index) => {
-  //   return (
-  //     <Carousel.Item>
-  //       <img
-  //         className="d-block w-100"
-  //         src={require(`../Resources/${item}.png`)}
-  //         alt=""
-  //       />
-  //     </Carousel.Item>
-  //   );
-  // });
-
   return (
     <div className = "card">
         <CardColumns>
@@ -72,7 +47,7 @@ function Projects() {
             <Card.Body>
               <Card.Title>Nyx</Card.Title>
               <Card.Text>
-                A movie watchlist for iOS developed using SwiftUI to stop fights on what movies my wife and I were going to 
+                A movie watchlist for iOS developed using SwiftUI to stop fights on what movies my wife and I were going to
                 watch for the night
               </Card.Text>
               <Button target="_blank" href="https://github.com/ZachSoles/Nyx" variant="outline-dark">Source Code</Button>
@@ -87,9 +62,6 @@ function Projects() {
           </Card>
           <Card >
           <img className="d-block w-100"src={todo1}alt=""/>
-            {/* <Carousel>
-              {/* {todoSlides} */}
-            {/* </Carousel> */}
             <Card.Body>
               <Card.Title>Todo App</Card.Title>
               <Card.Text>
@@ -117,7 +89,7 @@ function Projects() {
             </Card.Body>
           </Card>
           <Card className="text-center">
-          <Button target="_blank" href="https://github.com/ZachSoles?tab=repositories" variant="outline-dark"> 
+          <Button target="_blank" href="https://github.com/ZachSoles?tab=repositories" variant="outline-dark">
             <blockquote className="blockquote mb-0 card-body">
               <p>
                 See more projects and source code at my Github!

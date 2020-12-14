@@ -1,0 +1,44 @@
+{
+    "name":"Experience",
+    "Experience": [
+      {
+        "name":"US Air Force",
+        "title":"Aerospace Engineer",
+        "bullet": [
+          "Successfully diagnose and repair jet fighter engines"
+        ]
+      },
+      {
+        "name":"Kaliedo Health Solutions",
+        "title":"Full Stack Software Engineer Intern",
+        "bullet": [
+          "Successfully engineered front end and backend of applications using React.js, Redux, and Node.js",
+          "Conserved funding by creating an in-house application using Electron.js, to construct heat maps of user data for use in board room and sales meetings",
+          "Created detailed documentation and Jest unit tests to assist development and QA"
+        ]
+      },
+      {
+        "name":"West Chester University",
+        "title":"Research Assistant | Private Tutor | IS&T IT Help Desk Intern",
+        "bullet": [
+          "Advanced development of an auto-grader script in Python and Haskell using HUnit, to automatically grade a batch of students’ programs",
+          "Worked one-on-one with students who sought assistance in mastering Haskell and Data Structures achieving 100% pass rate with tutored students",
+          "Engineered scripts that automate tasks to promote efficiency"
+        ]
+      },
+      {
+        "name":"County of Chester",
+        "title":"DCIS IT Technician",
+        "bullet": [
+          "Successfully assist IT department with imaging, configuration, and deployment of computers and systems used by county staff"
+        ]
+      },
+      {
+        "name":"Westminster Presbyterian Church",
+        "title":"Informational Technology Intern",
+        "bullet": [
+          "Provided unparalleled support for analog and digital systems used for mass every Sunday"
+        ]
+      }
+    ]
+}
