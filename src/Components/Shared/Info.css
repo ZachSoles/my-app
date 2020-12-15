@@ -6,11 +6,19 @@
 }
 
 .title {
-    color: #94b284;
+    color: #fc814a;
     font-weight: bold;
 }
 
 .name {
-    color: #2c474b;
+    color: #564256;
     font-weight: bold;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #fc814a;
+    background-color: cutom-color;
+    border-color: #fc814a;
+    border-color: cutom-cor;
 }

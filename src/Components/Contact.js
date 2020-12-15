@@ -4,7 +4,7 @@ import { Form, Button, Card, Col, Row } from 'react-bootstrap';
 
 function Contact() {
   return (
-    <div style={{padding: "10%"}}>
+    <div style={{padding: "5%"}}>
       <Card>
         <h1>Send me an email!</h1>
         <p></p>

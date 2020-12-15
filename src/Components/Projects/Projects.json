@@ -3,8 +3,24 @@
         "title":"Nyx",
         "text":"A movie watchlist for iOS developed using SwiftUI to stop fights on what movies my wife and I were going to watch for the night",
         "github":"https://github.com/ZachSoles/Nyx",
-        "images": [
-
-        ]
+        "image":"https://raw.githubusercontent.com/ZachSoles/My-Portfolio/master/src/Components/Resources/nyx1.png"
+    },
+    {
+        "title":"",
+        "text":"Script to convert images to excel csv files for binary images using Python and OpenCV",
+        "github":"",
+        "image":""
+    },
+    {
+        "title":"Todo App",
+        "text":"Simple iOS todo application to learn CoreData and SwiftUI",
+        "github":"https://github.com/ZachSoles/Todo-List",
+        "image":"https://raw.githubusercontent.com/ZachSoles/My-Portfolio/master/src/Components/Resources/todo1.png"
+    },
+    {
+        "title":"RPG Text Based Game",
+        "text":"A clone of ZORG, a terminal based roleplaying game developed using Java.",
+        "github":"https://github.com/ZachSoles/Java-Text-Based-RPG",
+        "image":""
     }
 ]
