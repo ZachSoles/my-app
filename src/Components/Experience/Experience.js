@@ -1,10 +1,10 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import json from './Experience.json';
+// import json from './Experience.json';
 import '../Shared/Info.css'
 import { Media } from 'react-bootstrap';
 
-function Experience() {
+function Experience(json) {
   return (
     <div>
         <Media className="style">

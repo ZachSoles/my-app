@@ -15,6 +15,18 @@
     font-weight: bold;
 }
 
+.gray1 {
+    color: #96939b;
+}
+
+.gray2 {
+    color: #bfbfbf;
+}
+
+.white {
+    color: #e8e8e8;
+}
+
 .btn-primary {
     color: #fff;
     background-color: #fc814a;

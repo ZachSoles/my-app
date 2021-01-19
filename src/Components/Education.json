@@ -1,0 +1,27 @@
+
+{
+    "name":"Experience",
+    "education": [
+        {
+            "name":"West Chester University",
+            "title":"Bachelors of Science in Computer Science",
+            "bullet": [
+                "Completed my degree with honors and finshing with a 3.4 GPA."
+            ]
+        },
+        {
+            "name":"West Chester University",
+            "title":"NSA Computer Security Certificate",
+            "bullet": [
+                "Recieved an accredited NSA certificate for intrusion hacking."
+            ]
+        },
+        {
+            "name":"Community College of the Air Force",
+            "title":"Aerospace Propolsions",
+            "bullet": [
+                "Currently in school for an Associated degree for Aerospace Propulsion Technician Degree."
+            ]
+        }
+    ]
+}

@@ -2,6 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import json from './Projects.json';
 import './Projects.css';
+import '../Shared/Info.css';
 import {Card, CardColumns, Button, Carousel} from 'react-bootstrap';
 // import todo1 from '../Resources/todo1.png';
 // import nyx1 from '../Resources/nyx1.png';
@@ -22,13 +23,21 @@ function Projects() {
                     (<img className="d-block w-100" src={project.image} alt="App Image"/>) :
                     (<p></p>)
                   }
-                  <Card.Title>
+                  <Card.Title className="title">
                     {project.title}
                   </Card.Title>
                   <Card.Text>
                     {project.text}
                   </Card.Text>
+                  <Card.Text className="name">Technologies:</Card.Text>
+                  <Card.Text className="gray1">{project.technologies}</Card.Text>
                 </Card.Body>
+                {
+                    project.link.length !== 0 ? 
+                      (<Button target="_blank" href={project.link} variant="outline-dark">Check Out My Project</Button>) : 
+                      (<p></p>)
+                }
+                <p></p>
                 {
                     project.github.length !== 0 ? 
                       (<Button target="_blank" href={project.github} variant="outline-dark">Source Code</Button>) : 

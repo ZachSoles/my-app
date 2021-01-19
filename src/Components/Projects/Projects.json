@@ -3,24 +3,40 @@
         "title":"Nyx",
         "text":"A movie watchlist for iOS developed using SwiftUI to stop fights on what movies my wife and I were going to watch for the night",
         "github":"https://github.com/ZachSoles/Nyx",
-        "image":"https://raw.githubusercontent.com/ZachSoles/My-Portfolio/master/src/Components/Resources/nyx1.png"
+        "link":"",
+        "image":"https://raw.githubusercontent.com/ZachSoles/My-Portfolio/master/src/Components/Resources/nyx1.png",
+        "technologies":"SwiftUI, CoreData, OpenMDB API"
     },
     {
         "title":"",
         "text":"Script to convert images to excel csv files for binary images using Python and OpenCV",
         "github":"",
-        "image":""
+        "link":"",
+        "image":"",
+        "technologies":"OpenCV, Python"
     },
     {
         "title":"Todo App",
         "text":"Simple iOS todo application to learn CoreData and SwiftUI",
         "github":"https://github.com/ZachSoles/Todo-List",
-        "image":"https://raw.githubusercontent.com/ZachSoles/My-Portfolio/master/src/Components/Resources/todo1.png"
+        "link":"",
+        "image":"https://raw.githubusercontent.com/ZachSoles/My-Portfolio/master/src/Components/Resources/todo1.png",
+        "technologies":"SwiftUI, CoreData"
     },
     {
         "title":"RPG Text Based Game",
         "text":"A clone of ZORG, a terminal based roleplaying game developed using Java.",
         "github":"https://github.com/ZachSoles/Java-Text-Based-RPG",
-        "image":""
+        "link":"",
+        "image":"",
+        "technologies":"Java"
+    },
+    {
+        "title":"Sorting Algorithm Visualizer",
+        "text":"A webpage created to show the speed and how different sorting algorithms work to sort a random array.",
+        "github":"https://github.com/ZachSoles/Java-Text-Based-RPG",
+        "link":"https://zachsoles.github.io/SortingAlgorithmVisualizer/",
+        "image":"",
+        "technologies":"React, TypeScript"
     }
 ]
