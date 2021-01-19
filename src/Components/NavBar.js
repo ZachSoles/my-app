@@ -10,8 +10,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function NavBar() {
   return (
     // <Navbar collapseOnSelect expand="lg" bg="light" variant="light" >
-    <Navbar expand="md" bg="dark" variant="dark">
-      <Navbar.Brand href="/">Zach Soles</Navbar.Brand>
+    <Navbar expand="md" bg="light" variant="light">
+      <Navbar.Brand href="/">ZJS</Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">
