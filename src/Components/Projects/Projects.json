@@ -1,10 +1,18 @@
 [
     {
+        "title":"Sorting Algorithm Visualizer",
+        "text":"A webpage created to show the speed and how different sorting algorithms work to sort a random array.",
+        "github":"https://github.com/ZachSoles/Java-Text-Based-RPG",
+        "link":"https://zachsoles.github.io/SortingAlgorithmVisualizer/",
+        "image":"https://raw.githubusercontent.com/ZachSoles/zachsoles.github.io/master/src/Components/Resources/algo_vis.PNG",
+        "technologies":"React, TypeScript"
+    },
+    {
         "title":"Nyx",
         "text":"A movie watchlist for iOS developed using SwiftUI to stop fights on what movies my wife and I were going to watch for the night",
         "github":"https://github.com/ZachSoles/Nyx",
         "link":"",
-        "image":"https://raw.githubusercontent.com/ZachSoles/My-Portfolio/master/src/Components/Resources/nyx1.png",
+        "image":"https://raw.githubusercontent.com/ZachSoles/zachsoles.github.io/master/src/Components/Resources/nyx1.png",
         "technologies":"SwiftUI, CoreData, OpenMDB API"
     },
     {
@@ -20,7 +28,7 @@
         "text":"Simple iOS todo application to learn CoreData and SwiftUI",
         "github":"https://github.com/ZachSoles/Todo-List",
         "link":"",
-        "image":"https://raw.githubusercontent.com/ZachSoles/My-Portfolio/master/src/Components/Resources/todo1.png",
+        "image":"https://raw.githubusercontent.com/ZachSoles/zachsoles.github.io/master/src/Components/Resources/todo1.png",
         "technologies":"SwiftUI, CoreData"
     },
     {
@@ -30,13 +38,5 @@
         "link":"",
         "image":"",
         "technologies":"Java"
-    },
-    {
-        "title":"Sorting Algorithm Visualizer",
-        "text":"A webpage created to show the speed and how different sorting algorithms work to sort a random array.",
-        "github":"https://github.com/ZachSoles/Java-Text-Based-RPG",
-        "link":"https://zachsoles.github.io/SortingAlgorithmVisualizer/",
-        "image":"",
-        "technologies":"React, TypeScript"
     }
 ]
