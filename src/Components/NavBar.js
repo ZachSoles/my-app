@@ -3,6 +3,7 @@ import { Navbar, Nav } from 'react-bootstrap';
 import Instagram from './Resources/instagram.png';
 import LinkedIn from './Resources/linkedin.png';
 import Github from './Resources/github.png';
+import me from './Resources/IMG_1790.PNG';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -11,7 +12,9 @@ function NavBar() {
   return (
     // <Navbar collapseOnSelect expand="lg" bg="light" variant="light" >
     <Navbar expand="md" bg="light" variant="light">
-      <Navbar.Brand href="/">ZJS</Navbar.Brand>
+      <Navbar.Brand href="/">
+        Home
+      </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">
