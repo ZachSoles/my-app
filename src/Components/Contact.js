@@ -16,17 +16,17 @@ function Contact() {
           <Row><p></p></Row>
           <Row>
             <Col>
-              <a href="https://github.com/ZachSoles"  target="_blank">
+              <a href="https://github.com/ZachSoles"  target="_blank" rel="noopener noreferrer">
                 <img width = "50" height = "50" alt="github" src={github}/>
               </a>
             </Col>
             <Col>
-              <a href="https://www.instagram.com/zach__soles/" target="_blank">
+              <a href="https://www.instagram.com/zach__soles/" target="_blank" rel="noopener noreferrer">
                 <img width = "50" height = "50" alt="instagram" src={instagram}/>
               </a>
             </Col>
             <Col>
-              <a href="https://www.linkedin.com/in/zachery-soles-9b00a212a/" target="_blank">
+              <a href="https://www.linkedin.com/in/zachery-soles-9b00a212a/" target="_blank" rel="noopener noreferrer">
                 <img width = "50" height = "50" alt="linkedin" src={linkedin}/>
               </a>
             </Col>
