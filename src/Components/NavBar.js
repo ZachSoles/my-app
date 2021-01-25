@@ -1,9 +1,5 @@
 import React from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
-import Instagram from './Resources/instagram.png';
-import LinkedIn from './Resources/linkedin.png';
-import Github from './Resources/github.png';
-import me from './Resources/IMG_1790.PNG';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
