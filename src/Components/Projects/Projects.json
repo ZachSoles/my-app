@@ -8,6 +8,14 @@
         "technologies":"React, TypeScript"
     },
     {
+        "title":"Mini-Java Programming Language",
+        "text":"Programming Language developed to be a mini-java type created using Java.",
+        "github":"https://github.com/ZachSoles/MiniJava-ProgramingLang",
+        "link":"",
+        "image":"",
+        "technologies":"Java"
+    },
+    {
         "title":"Nyx",
         "text":"A movie watchlist for iOS developed using SwiftUI to stop fights on what movies my wife and I were going to watch for the night",
         "github":"https://github.com/ZachSoles/Nyx",
