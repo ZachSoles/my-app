@@ -14,6 +14,7 @@ function App() {
           <Route path="/" exact component={FrontPage}/>
           <Route path="/projects" component={Projects}/>
           <Route path="/contact" component={Contact}/>
+          {/* <Route path="/experience" component={Experience}> */}
         </Switch>
       </div>
     </HashRouter>
