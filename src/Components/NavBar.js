@@ -5,11 +5,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function NavBar() {
+  var str = "</Home>"
   return (
     // <Navbar collapseOnSelect expand="lg" bg="light" variant="light" >
     <Navbar expand="md" bg="light" variant="light">
       <Navbar.Brand href="/">
-        Home
+        {str}
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
