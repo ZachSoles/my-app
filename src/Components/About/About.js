@@ -41,7 +41,7 @@ function About() {
             </Row>
             <Button href="/#/contact/" variant="outline-dark">Contact Me!</Button>
           </Col>
-          <Col>
+          <Col style={{padding:"5%"}}>
             <img className='imageStyle' src={me}/>
           </Col>
         </Row>
