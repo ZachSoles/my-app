@@ -7,31 +7,9 @@ import { Form, Button, Card, Col, Row, Container } from 'react-bootstrap';
 
 function Contact() {
   return (
-    <div style={{padding: "5%"}}>
-      <Card>
+    <div style={{padding: "5"}}>
+      <Card style={{padding: "5%"}}>
         <Container>
-          <Row>
-            <Col><h1>Contact me on Social Media</h1></Col>
-          </Row>
-          <Row><p></p></Row>
-          <Row>
-            <Col>
-              <a href="https://github.com/ZachSoles"  target="_blank" rel="noopener noreferrer">
-                <img width = "50" height = "50" alt="github" src={github}/>
-              </a>
-            </Col>
-            <Col>
-              <a href="https://www.instagram.com/zach__soles/" target="_blank" rel="noopener noreferrer">
-                <img width = "50" height = "50" alt="instagram" src={instagram}/>
-              </a>
-            </Col>
-            <Col>
-              <a href="https://www.linkedin.com/in/zachery-soles-9b00a212a/" target="_blank" rel="noopener noreferrer">
-                <img width = "50" height = "50" alt="linkedin" src={linkedin}/>
-              </a>
-            </Col>
-          </Row>
-          <Row><p></p></Row>
           <Row>
             <Col><h1>Send me an email!</h1></Col>
           </Row>

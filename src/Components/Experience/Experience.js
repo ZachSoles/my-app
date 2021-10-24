@@ -9,11 +9,16 @@ function Experience(json) {
     <div>
         <Media className="style">
         <Media.Body>
-          <h5 className="title" >{json.name}:</h5>
+          <h4 className="title" >{json.name}:</h4>
           {
             json.Experience.map((exp) => (
               <div>
                 <h6 className="name">{exp.name}</h6>
+                {exp.startDate ?
+                  <p>{exp.startDate} {exp.endDate ? '- ' + exp.endDate : ""}</p>
+                  : ""
+                }
+
                 <p>{exp.title}</p>
                 <ul>
                   {

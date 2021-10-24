@@ -3,6 +3,8 @@
     "Experience": [
       {
         "name":"US Air Force",
+        "startDate":"FEB 2020",
+        "endDate":"CURRENT",
         "title":"Aerospace Engineer",
         "bullet": [
           "Successfully diagnose and repair jet fighter engines"
@@ -10,6 +12,8 @@
       },
       {
         "name":"Kaliedo Health Solutions",
+        "startDate":"JUN 2019",
+        "endDate":"AUG 2019",
         "title":"Full Stack Software Engineer Intern",
         "bullet": [
           "Successfully engineered front end and backend of applications using React.js, Redux, and Node.js",
@@ -19,6 +23,8 @@
       },
       {
         "name":"West Chester University",
+        "startDate":"FALL 2016",
+        "endDate":"FALL 2019",
         "title":"Research Assistant | Private Tutor | IS&T IT Help Desk Intern",
         "bullet": [
           "Advanced development of an auto-grader script in Python and Haskell using HUnit, to automatically grade a batch of students’ programs",
@@ -28,6 +34,8 @@
       },
       {
         "name":"County of Chester",
+        "startDate":"SEP 2019",
+        "endDate":"FEB 2020",
         "title":"DCIS IT Technician",
         "bullet": [
           "Successfully assist IT department with imaging, configuration, and deployment of computers and systems used by county staff"
@@ -35,6 +43,8 @@
       },
       {
         "name":"Westminster Presbyterian Church",
+        "startDate":"SEP 2019",
+        "endDate":"JAN 2020",
         "title":"Informational Technology Intern",
         "bullet": [
           "Provided unparalleled support for analog and digital systems used for mass every Sunday"
