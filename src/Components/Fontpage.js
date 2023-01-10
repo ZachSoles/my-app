@@ -5,6 +5,7 @@ import About from './About/About';
 import Experience from './Experience/Experience';
 import exp from './Experience/Experience.json';
 import edu from './Education.json';
+import cert from './Certifications.json'
 import Projects from './Projects/Projects';
 
 function FrontPage() {
@@ -13,6 +14,7 @@ function FrontPage() {
         <Homepage/>
         <About/>
         <Projects/>
+        <Experience name={cert.name} Experience={cert.Certifications}
         <Experience name={exp.name} Experience={exp.Experience}/>
         <Experience name={edu.name} Experience={edu.education}/>
 

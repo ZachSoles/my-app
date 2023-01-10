@@ -7,38 +7,23 @@
             "startDate":"FALL 2016",
             "endDate":"FALL 2019",
             "title":"Bachelors of Science in Computer Science",
-            "bullet": [
-                "Completed my degree with honors and finshing with a 3.4 GPA.",
-                "Raised $2000 for Jimmy V Foundation for the Delta Chi Fraternity.",
-                "Established a safe environment of risk for a 30+ member chapter of Delta Chi Fraternity"
-            ]
+            "bullet": []
         },
         {
             "name":"Georgia Tech",
             "startDate":"FALL 2021",
-            "endDate":"PROJ. SPRING 2023",
+            "endDate":"PROJ. SPRING 2024",
             "title":"Masters of Computer Science",
             "bullet": [
-                "Currently studying with a focus in AI and Computing."
-            ]
-        },
-        {
-            "name":"West Chester University",
-            "startDate":"DEC 2019",
-            "endDate":"",
-            "title":"NSA Computer Security Certificate",
-            "bullet": [
-                "Recieved an accredited NSA certificate for intrusion hacking."
+                "Specialization in Computer Systems"
             ]
         },
         {
             "name":"Community College of the Air Force",
-            "startDate":"",
-            "endDate":"",
-            "title":"Aerospace Propulsion",
-            "bullet": [
-                "Currently in school for an Associated degree for Aerospace Propulsion Technician Degree."
-            ]
+            "startDate":"FEB 2021",
+            "endDate": "SEP 2022",
+            "title":"Aviation Maintenance Technology",
+            "bullet": []
         }
     ]
 }

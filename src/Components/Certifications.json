@@ -1,0 +1,27 @@
+
+{
+    "name":"Certifications",
+    "education": [
+        {
+            "name":"US Air Force",
+            "startDate":"FEB 2021",
+            "endDate":"FEB 2031",
+            "title":"Secret Security Clearance",
+            "bullet": []
+        },
+        {
+            "name":"West Chester University",
+            "startDate":"FALL 2019",
+            "endDate":"",
+            "title":"NSA Computer Security Certificate",
+            "bullet": []
+        },
+        {
+            "name":"Center for Adaptive Warfighting",
+            "startDate":"DEC 2022",
+            "endDate":"",
+            "title":"Military SCRUM Master",
+            "bullet": []
+        }
+    ]
+}
