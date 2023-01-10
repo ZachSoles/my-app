@@ -3,11 +3,42 @@
     "Experience": [
       {
         "name":"US Air Force",
+        "startDate":"OCT 2022",
+        "endDate":"CURRENT",
+        "title":"Software Engineer",
+        "bullet": [
+          "Oversee 5 software developers and development of 2 iOS application for use Air Force wide",
+          "Collaborate and advise on issues for the Chief Scientist of the US Air Force Office",
+          "Research, design, and engineer hardware and software solutions for aircraft maintainers and pilots"
+        ]
+      },
+      {
+        "name":"US Air Force",
         "startDate":"FEB 2020",
         "endDate":"CURRENT",
         "title":"Aerospace Engineer",
         "bullet": [
-          "Successfully diagnose and repair jet fighter engines"
+          "Diagnose, overhaul, and perform maintenance on F-16, F-15, and F-35 aircraft and engines",
+          "Inspect and test installed units and support tooling for F-110 engine"
+        ]
+      },
+      {
+        "name":"County of Chester",
+        "startDate":"SEP 2019",
+        "endDate":"FEB 2020",
+        "title":"DCIS IT Technician",
+        "bullet": [
+          "Provided on-site and remote assistance with computer issues for over 2000+ systems"
+        ]
+      },
+      {
+        "name":"Westminster Presbyterian Church",
+        "startDate":"SEP 2019",
+        "endDate":"JAN 2020",
+        "title":"Informational Technology Intern",
+        "bullet": [
+          "Configured, installed, and managed a wide-range of Windows and Mac laptops, along with configuration of printers and associated hardware",
+          "Provided support for weekly livestream with a viewership of 5000+ community members"
         ]
       },
       {
@@ -23,31 +54,22 @@
       },
       {
         "name":"West Chester University",
-        "startDate":"FALL 2016",
-        "endDate":"FALL 2019",
-        "title":"Research Assistant | Private Tutor | IS&T IT Help Desk Intern",
+        "startDate":"JUN 2019",
+        "endDate":"AUG 2019",
+        "title":"Research Assistant",
         "bullet": [
-          "Advanced development of an auto-grader script in Python and Haskell using HUnit, to automatically grade a batch of students’ programs",
-          "Worked one-on-one with students who sought assistance in mastering Haskell and Data Structures achieving 100% pass rate with tutored students",
-          "Engineered scripts that automate tasks to promote efficiency"
+          "Coordinated implementation of auto-grading system within the Computer Science department"
         ]
       },
       {
-        "name":"County of Chester",
-        "startDate":"SEP 2019",
-        "endDate":"FEB 2020",
-        "title":"DCIS IT Technician",
+        "name":"West Chester University",
+        "startDate":"MAR 2019",
+        "endDate":"DEC 2019",
+        "title":"IS&T IT Help Desk Technician",
         "bullet": [
-          "Successfully assist IT department with imaging, configuration, and deployment of computers and systems used by county staff"
-        ]
-      },
-      {
-        "name":"Westminster Presbyterian Church",
-        "startDate":"SEP 2019",
-        "endDate":"JAN 2020",
-        "title":"Informational Technology Intern",
-        "bullet": [
-          "Provided unparalleled support for analog and digital systems used for mass every Sunday"
+          "Assisted with implementation of new ticketing system, improved customer satisfaction by 40%",
+          "Developed script for automated data analytics for customer service quantity, saving 100+ hours every quarter",
+          "Troubleshot wired and wireless network, software, and hardware for Mac, PC, and Linux platforms for over 20,000 personnel",
         ]
       }
     ]
