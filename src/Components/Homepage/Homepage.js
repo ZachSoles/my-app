@@ -11,8 +11,8 @@ function Homepage() {
   return (
     <div className="hero">
       <Container style={{paddingTop:'1%'}}>
-        <h1 className = "Homeh1" >Zachery Soles</h1>
-        <p className = "Homep" >Aerospace Propulsion Technician | Software Engineer</p>
+        <h1 className = "Homeh1">Zachery Soles</h1>
+        <p className = "Homep">Software Engineer</p>
         </Container>
     </div>
   );

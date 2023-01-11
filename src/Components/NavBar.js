@@ -3,7 +3,7 @@ import { Navbar, Nav } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import github from './Resources/github.png'
 import instagram from './Resources/instagram.png';
-import linkedin from './Resources/linkedin.png'
+import linkedin from './Resources/linkedin.png';
 
 
 

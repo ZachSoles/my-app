@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../Shared/Info.css';
 import json from './About.json';
 import me from '../Resources/me.jpeg';
+import resume from '../Resources/soles_resume.pdf';
 import './About.css';
 import { Col, Container, Row, Button } from 'react-bootstrap';
 
@@ -39,7 +40,14 @@ function About() {
                   </ul>
               </Col>
             </Row>
-            <Button href="/#/contact/" variant="outline-dark">Contact Me!</Button>
+            {/* <Row>
+              <Col>
+                <Button href="/#/contact/" variant="outline-dark">Contact Me</Button>
+              </Col>
+              <Col> */}
+                <Button href={resume} variant="outline-dark" target="_blank">See My Resume!</Button>
+              {/* </Col>
+            </Row> */}
           </Col>
           <Col style={{padding:"5%"}} >
             <img  className='imageStyle' src={me}/>

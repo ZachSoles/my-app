@@ -1,7 +1,7 @@
 {
     "name":"About Me",
-    "info": "I am currently studying Masters of Computer Science at Georgia Tech, with a focus in Artificial Intelligence and Computing. I am also an Aerospace Propulsion Technician in the US Air Force.",
-    "tech": ["Electron.js", "React.js", "Node.js", "SwiftUI"],
-    "lang": ["Java", "Python", "Javascript", "Typescript", "SQL", "C"],
-    "free": "In my free time, I like to play and develop video games."
+    "info": "I am currently a software engineer for the US Air Force, and am in the process of completing my Masters in Computer Science at Georgia Tech.",
+    "tech": ["Electron.js", "React.js", "Node.js", "Redux", "SwiftUI", "UIKit"],
+    "lang": ["Java", "Python", "Javascript", "Typescript", "Swift", "SQL", "C"],
+    "free": ""
 }
