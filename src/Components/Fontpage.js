@@ -14,10 +14,9 @@ function FrontPage() {
         <Homepage/>
         <About/>
         <Projects/>
-        <Experience name={cert.name} Experience={cert.Certifications}/>
+        {/* <Experience name={cert.name} Experience={cert.Certifications}/>
         <Experience name={exp.name} Experience={exp.Experience}/>
-        <Experience name={edu.name} Experience={edu.Education}/>
-
+        <Experience name={edu.name} Experience={edu.Education}/> */}
     </div>
   );
 }
