@@ -13,7 +13,7 @@
         "github":"",
         "link":"https://zachsoles.github.io/VulkanAF/",
         "image":"https://raw.githubusercontent.com/ZachSoles/zachsoles.github.io/master/src/Components/Resources/vulkan.png",
-        "technologies":"Java"
+        "technologies":"SwiftUI, CoreData"
     },
     {
         "title":"Mini-Java Programming Language",
@@ -32,12 +32,12 @@
         "technologies":"SwiftUI, CoreData, OpenMDB API"
     },
     {
-        "title":"",
-        "text":"Script to convert images to excel csv files for binary images using Python and OpenCV",
-        "github":"",
+        "title":"TabView",
+        "text":"Swift package implementation for tabbed views within SwiftUI.",
+        "github":"https://github.com/ZachSoles/TabView",
         "link":"",
         "image":"",
-        "technologies":"OpenCV, Python"
+        "technologies":"SwiftUI"
     },
     {
         "title":"Todo App",
