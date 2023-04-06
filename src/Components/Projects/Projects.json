@@ -40,11 +40,11 @@
         "technologies":"SwiftUI"
     },
     {
-        "title":"Todo App",
-        "text":"Simple iOS todo application to learn CoreData and SwiftUI",
-        "github":"https://github.com/ZachSoles/Todo-List",
-        "link":"",
-        "image":"https://raw.githubusercontent.com/ZachSoles/zachsoles.github.io/master/src/Components/Resources/todo1_iphone12black_portrait.png",
+        "title":"PT Ace",
+        "text":"iOS application for managing and conducting Air Force PT tests",
+        "github":"",
+        "link":"https://apps.apple.com/us/app/pt-ace/id6446156056",
+        "image":"",
         "technologies":"SwiftUI, CoreData"
     },
     {
