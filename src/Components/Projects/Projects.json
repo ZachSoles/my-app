@@ -27,7 +27,7 @@
         "title":"USAF Project Arc Website",
         "text":"Developed features and overall design of Air Force's innovation program website",
         "github":"https://github.com/USAF-Project-Arc/USAF-Project-Arc.github.io",
-        "link":"USAF-Project-Arc.github.io",
+        "link":"https://usaf-project-arc.github.io",
         "image":"",
         "technologies":"React.js, MUI, Javascript"
     },
