@@ -24,12 +24,12 @@
         "technologies":"Java"
     },
     {
-        "title":"Nyx",
-        "text":"A movie watchlist for iOS developed using SwiftUI to stop fights on what movies my wife and I were going to watch for the night",
-        "github":"https://github.com/ZachSoles/Nyx",
-        "link":"",
-        "image":"https://raw.githubusercontent.com/ZachSoles/zachsoles.github.io/master/src/Components/Resources/nyx1_iphone12black_portrait.png",
-        "technologies":"SwiftUI, CoreData, OpenMDB API"
+        "title":"USAF Project Arc Website",
+        "text":"Developed features and overall design of Air Force's innovation program website",
+        "github":"https://github.com/USAF-Project-Arc/USAF-Project-Arc.github.io",
+        "link":"USAF-Project-Arc.github.io",
+        "image":"",
+        "technologies":"React.js, MUI, Javascript"
     },
     {
         "title":"TabView",
@@ -44,7 +44,7 @@
         "text":"iOS application for managing and conducting Air Force PT tests",
         "github":"",
         "link":"https://apps.apple.com/us/app/pt-ace/id6446156056",
-        "image":"",
+        "image":"https://raw.githubusercontent.com/ZachSoles/zachsoles.github.io/master/src/Components/Resources/ptace.png",
         "technologies":"SwiftUI, CoreData"
     },
     {
